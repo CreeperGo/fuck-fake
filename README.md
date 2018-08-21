@@ -1,6 +1,6 @@
 # fuck-fake
-closed-source patch... Linux only
-LD_PRELOAD=patch.so路径(例如./patch.so 最好使用绝对路径) ./server
+closed-source patch... Linux only<br>
+LD_PRELOAD=patch.so路径(例如./patch.so 最好使用绝对路径) ./server<br>
 
 launch.sh<br>
   LD_PRELOAD=/home/server/patch.so /home/server/gctf/server
